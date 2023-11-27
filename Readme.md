@@ -1,2 +1,4 @@
-flavia is here
-jacky is here as well still alve
+
+flavia is here, and she is still here
+jacky is here as well 
+Alice arrived 
